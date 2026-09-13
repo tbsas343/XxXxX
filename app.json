@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "XxXxX",
+    "slug": "xxxxx-chat",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "xxxxx",
+    "web": {
+      "bundler": "metro",
+      "output": "static"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#5B5CE2"
+      }
+    }
+  }
+}
